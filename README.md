@@ -1,7 +1,7 @@
-**Final Project Python For Data Science**
+# Final Project Python For Data Science
 Đồ án cuối kỳ môn Python cho khoa học dữ liệu.
 
-> Dataset:
+**Dataset:**
 The dataset contains data from two different hotels. One Resort hotel and one City hotel.
 
 From the publication (https://www.sciencedirect.com/science/article/pii/S2352340918315191) we know that both hotels are located in Portugal (southern Europe) ("H1 at the resort region of Algarve and H2 at the city of Lisbon"). The distance between these two locations is ca. 280 km by car and both locations border on the north atlantic.
